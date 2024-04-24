@@ -4,7 +4,7 @@ authors = [
   { name="Ankushtpss", email="ankushkumartpss@gmail.com" },
 ]
 description = "A python library working with Hubstaff"
-keywords = ["Hubstaff",  "Hubstaff SDK", "Hubstaff library"]
+keywords = ["Hubstaff","Hub staff",  "Hubstaff SDK", "Hubstaff library"]
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
@@ -18,7 +18,7 @@ dependencies = [
     "sys",
 ]
 
-version = "1"
+version = "1.1"
 
 [tool.setuptools_scm]
 
